@@ -73,4 +73,4 @@ while c != "E" or c != 'e':
         pass
     elif(c == "E" or c == 'e'):
         break
-print("          THANK YOU FOR USING MY DICTIONARY--SAyantan")
+print("         THANK YOU FOR USING MY DICTIONARY--SAyantan")
