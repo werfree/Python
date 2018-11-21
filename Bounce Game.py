@@ -127,6 +127,7 @@ class Ball:
             a=canvas.create_rectangle(x1,y1,x2,y2,fill=c)
             
             b+=1
+            
         if(pos[2]>=x1 and pos[0]<=x2):
             if(pos[1]<=y2 and pos[1]>=y1):
                 self.y=3
